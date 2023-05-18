@@ -15,7 +15,7 @@ export class AppComponent {
     this.headers = this.headers.append('Accept', 'application/json');
     this.headers = this.headers.append(
       'Authorization',
-      'Bearer 5wGeWvlwHc8DFQE1atJGgrPG9vW7dJ'
+      'Bearer xxxxxxxxxxxxxxxxxxxxxx'
     );
   }
 
